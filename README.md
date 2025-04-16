@@ -13,7 +13,7 @@ A simple Next.js app with user authentication using **Supabase**. This project i
 
 ## 🚀 Demo
 
-> 
+> https://supabase-auth-next-js.vercel.app/
 
 ---
 
