@@ -18,9 +18,9 @@ A simple Next.js app with user authentication using **Supabase**. This project i
 
 ## Tech Stack:
 
--Next.js
--TailwindCSS
--Supabase
+- Next.js
+- TailwindCSS
+- Supabase
 
 
 
